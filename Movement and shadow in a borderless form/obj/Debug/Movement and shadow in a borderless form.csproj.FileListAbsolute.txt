@@ -1,0 +1,10 @@
+E:\Proyectos\Repositorios\Movement and shadow in a borderless form\Movement and shadow in a borderless form\bin\Debug\Movement and shadow in a borderless form.exe.config
+E:\Proyectos\Repositorios\Movement and shadow in a borderless form\Movement and shadow in a borderless form\bin\Debug\Movement and shadow in a borderless form.exe
+E:\Proyectos\Repositorios\Movement and shadow in a borderless form\Movement and shadow in a borderless form\bin\Debug\Movement and shadow in a borderless form.pdb
+E:\Proyectos\Repositorios\Movement and shadow in a borderless form\Movement and shadow in a borderless form\obj\Debug\Movement and shadow in a borderless form.csprojAssemblyReference.cache
+E:\Proyectos\Repositorios\Movement and shadow in a borderless form\Movement and shadow in a borderless form\obj\Debug\Movement_and_shadow_in_a_borderless_form.Form1.resources
+E:\Proyectos\Repositorios\Movement and shadow in a borderless form\Movement and shadow in a borderless form\obj\Debug\Movement_and_shadow_in_a_borderless_form.Properties.Resources.resources
+E:\Proyectos\Repositorios\Movement and shadow in a borderless form\Movement and shadow in a borderless form\obj\Debug\Movement and shadow in a borderless form.csproj.GenerateResource.cache
+E:\Proyectos\Repositorios\Movement and shadow in a borderless form\Movement and shadow in a borderless form\obj\Debug\Movement and shadow in a borderless form.csproj.CoreCompileInputs.cache
+E:\Proyectos\Repositorios\Movement and shadow in a borderless form\Movement and shadow in a borderless form\obj\Debug\Movement and shadow in a borderless form.exe
+E:\Proyectos\Repositorios\Movement and shadow in a borderless form\Movement and shadow in a borderless form\obj\Debug\Movement and shadow in a borderless form.pdb
